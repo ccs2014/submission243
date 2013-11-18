@@ -1,5 +1,6 @@
 
 All examples include a disassembled version of the binary in 64-bit ALPHA ISA.
+```
 .
 ├── Control-Flow Integrity
 │   ├── rop.asm
@@ -21,3 +22,4 @@ All examples include a disassembled version of the binary in 64-bit ALPHA ISA.
     └── taint.c
 
 6 directories, 12 files
+```
