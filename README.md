@@ -1,5 +1,11 @@
+## PUMP Workshop Version
 
-All examples include a disassembled version of the binary in 64-bit ALPHA ISA.
+A short paper describing PUMP can be found _[here](PUMP_workshop_anon.pdf)_.
+
+## Mitigation Demonstration
+
+Accompanying C source and assembly (disassembled version of the binary in 64-bit ALPHA ISA) code of the mitigation demonstration examples is also included. The structure is as follows:
+
 ```
 .
 ├── Control-Flow Integrity
