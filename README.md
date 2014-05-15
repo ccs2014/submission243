@@ -1,6 +1,6 @@
 ## PUMP Workshop Version
 
-A short paper describing PUMP can be found _[here](PUMP_workshop_anon.pdf)_.
+A short paper describing PUMP can be found _[here](http://ccs2014.github.io/vulnerabilities/PUMP_workshop_anon.pdf)_ .
 
 ## Mitigation Demonstration
 
