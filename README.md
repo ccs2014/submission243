@@ -1,10 +1,10 @@
 ## PUMP Workshop Version
 
-A short paper describing PUMP can be found _[here](http://ccs2014.github.io/vulnerabilities/PUMP_workshop_anon.pdf)_ .
+A short paper describing PUMP can be found _[here](http://ccs2014.github.io/submission243/PUMP_workshop_anon.pdf)_ .
 
 ## Symbolic Rules
 
-A full list of symbolic rules for all policies described in the CCS paper can be found _[here](http://ccs2014.github.io/vulnerabilities/symbolic_rules.pdf)_ .
+A full list of symbolic rules for all policies described in the CCS paper can be found _[here](http://ccs2014.github.io/submission243/symbolic_rules.pdf)_ .
 
 ## Mitigation Demonstration
 
