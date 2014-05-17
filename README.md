@@ -2,6 +2,10 @@
 
 A short paper describing PUMP can be found _[here](http://ccs2014.github.io/vulnerabilities/PUMP_workshop_anon.pdf)_ .
 
+## Symbolic Rules
+
+A full list of symbolic rules for all policies described in the CCS paper can be found _[here](http://ccs2014.github.io/vulnerabilities/symbolic_rules.pdf)_ .
+
 ## Mitigation Demonstration
 
 Accompanying C source and assembly (disassembled version of the binary in 64-bit ALPHA ISA) code of the mitigation demonstration examples is also included. The structure is as follows:
