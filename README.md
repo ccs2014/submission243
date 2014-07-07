@@ -6,6 +6,10 @@ A short paper describing PUMP can be found _[here](http://ccs2014.github.io/subm
 
 A full list of symbolic rules for all policies described in the CCS paper can be found _[here](http://ccs2014.github.io/submission243/symbolic_rules.pdf)_ .
 
+## [_Update_] Simulation Code
+
+PUMP Simulation code can be found in the `Simulation Code` directory. More information in the README file there.
+
 ## Mitigation Demonstration
 
 Accompanying C source and assembly (disassembled version of the binary in 64-bit ALPHA ISA) code of the mitigation demonstration examples is also included. The structure is as follows:

@@ -1,4 +1,4 @@
-This tarball includes code for the following policies:
+This directory includes code for the following policies:
 
 1. Complete Control Flow Integrity
 	./cfi-ccfi
@@ -10,10 +10,10 @@ This tarball includes code for the following policies:
 	./sim.sh gcc 1000000 1024 4096          (./sim <benchmark> <Ninstr> <L1-pump size> <l2-pump size>)
 
 	Running this will save the results (number of misses in L1 and L2 PUMP caches in the directory ``results'' for each 1000 instructions).
-	``m-vectors'' has the rules that miss in the L2 PUMP.
-	``tags'' has the information on tags created at the start and the end of the simulation.
-	``cfg'' stores out the control-flow graph extracted from the instruction trace.
-	``l2misses'' has the instruction numbers that missed in the L2 pump
+	* ``m-vectors'' has the rules that miss in the L2 PUMP.
+	* ``tags'' has the information on tags created at the start and the end of the simulation.
+	* ``cfg'' stores out the control-flow graph extracted from the instruction trace.
+	* ``l2misses'' has the instruction numbers that missed in the L2 pump
 
 
 
@@ -45,8 +45,6 @@ This tarball includes code for the following policies:
 	cd composite
 	make
 	./sim.sh gcc 1000000 100 1024 4096          (./sim <benchmark> <Ninstr> <Ncolor> <L1-pump size> <l2-pump size>)
-
-
 
 
 Benchmarks: currenly this tarball only contains 1M instruction trace for the ``gcc'' benchmark (produced using gem5) along with a file with gcc's code taints.
