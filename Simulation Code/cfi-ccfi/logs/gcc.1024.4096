@@ -1,0 +1,6 @@
+on host icsafe01
+running ./simulate ../traces gcc 100000 1024 4096
+on host icsafe01
+running ./simulate ../traces gcc 100000 1024 4096
+on host icsafe01
+running ./simulate ../traces gcc 100000 1024 4096
